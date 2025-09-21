@@ -3,6 +3,16 @@
 GroupChat is a **real-time chat web application** built with **React (TypeScript)** and **Firebase**.  
 It supports **Google authentication**, email/password login, and real-time messaging using Firestore.
 
+## Sample Image of how it looks
+<img width="500" height="450" alt="image" src="https://github.com/user-attachments/assets/149890be-715c-41c3-bab9-fbbbdfd5e252" />
+
+<img width="500" height="450" alt="image" src="https://github.com/user-attachments/assets/843c8574-8f3d-450f-b502-2ff88fb1c18d" />
+
+Allows us to login with google account
+How it looks at firebase
+<img width="700" height="600" alt="tempsnip" src="https://github.com/user-attachments/assets/3775f9b6-953c-4f0e-bbe8-9ceb7273aedf" />
+
+
 ---
 
 ## **Setup Instructions**
