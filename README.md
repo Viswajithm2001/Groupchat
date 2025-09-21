@@ -1,6 +1,6 @@
-# QuickChat
+# GroupChat
 
-QuickChat is a **real-time chat web application** built with **React (TypeScript)** and **Firebase**.  
+GroupChat is a **real-time chat web application** built with **React (TypeScript)** and **Firebase**.  
 It supports **Google authentication**, email/password login, and real-time messaging using Firestore.
 
 ---
@@ -9,8 +9,8 @@ It supports **Google authentication**, email/password login, and real-time messa
 
 ### **Step 1: Create React App**
 ```bash
-npx create-react-app quickchat --template typescript
-cd quickchat
+npx create-react-app Groupchat --template typescript
+cd Groupchat
 ```
 **Why:**  
 - `npx create-react-app` → sets up a React project quickly.  
